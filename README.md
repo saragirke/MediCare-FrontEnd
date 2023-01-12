@@ -1,5 +1,4 @@
 # MediCare-FrontEnd
-# KlientProjekt
 
 # Projekt MediCare - Klient-applikation
 _Av Matilda Fröberg & Sara Girke_
