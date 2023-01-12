@@ -1,0 +1,45 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  font-family: 'Nunito', sans-serif;
+
+}
+
+body, html {
+  background-color: #C4F3EA;
+
+}
+
+h1 {
+  font-weight: bold;
+  margin-top: 20px;
+}
+
+h1, h2, h3, h4, p {
+  color: #0F5D9C;
+}
+
+h1, h2 {
+  text-align: center;
+}
+
+.remove:hover {
+ 
+  font-weight: bolder;
+}
+
+.changeview {
+  text-align: center;
+}
+
+button {
+margin-left: 5px;
+margin-right: 5px;
+padding: 6px;
+background-color: rgb(72, 186, 164);
+color: white;
+border: none;
+border-radius: 15px;
+}
+
+
